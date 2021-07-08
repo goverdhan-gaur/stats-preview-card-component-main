@@ -168,4 +168,14 @@ body {
       font-size: 3vw;
       margin-top: 3vw;
     }
+    .attribution {
+      position: relative;
+      bottom: 0;
+     
+      width: 100%;
+      padding: 2vw 0;
+      font-size: 11px;
+      text-align: center;
+      color: var(--White);
+    }
   }
